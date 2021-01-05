@@ -1,7 +1,7 @@
 # worldSkills-2019
 2017 지방대회과제 구현
 
-<h2>구현된 </h2>
+<h2>구현된 기능</h2>
 <ul>
   <li>이미지 자동슬라이드 실행중</li>
   <li>Read More 버튼 클릭시 hidden text 나타남, 버튼내용 Hide로 바뀜</li>
